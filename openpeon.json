@@ -1,0 +1,142 @@
+{
+  "cesp_version": "1.0",
+  "name": "arthas_ru",
+  "display_name": "Артас Рыцарь Смерти (Russian)",
+  "version": "1.0.0",
+  "author": {
+    "name": "bohdanpozharskyi",
+    "github": "bohdanpozharskyi"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ru",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/frostmourne_hungers.wav",
+          "label": "Фростморн жаждет...",
+          "sha256": "f875e3d235a5d0730e90daf0937436ce730db02538eaee65c4ad3517680c3316"
+        },
+        {
+          "file": "sounds/frostmourne.wav",
+          "label": "Фростморн",
+          "sha256": "b68f8dfdb6b185988b6601507fb1c860f8b57b570dbb4007978fa30a4ee42dbe"
+        },
+        {
+          "file": "sounds/at_last.wav",
+          "label": "Наконец-то...",
+          "sha256": "e0629b96c13699f19e4466bd9542c76d875a4cd50e74294bdf41e2d85927ab08"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/for_the_lich_king.wav",
+          "label": "За Короля мёртвых",
+          "sha256": "68e0ce1955ac8c211a12b116820659e6b27e4dade0cc6caf5f3de0164bae8a69"
+        },
+        {
+          "file": "sounds/for_the_scourge.wav",
+          "label": "Во славу Плети",
+          "sha256": "439594a43eb85b45a125fa73979485577bbd168ecf3c0fc019a92fa2131bb72e"
+        },
+        {
+          "file": "sounds/like_this.wav",
+          "label": "Вот так...",
+          "sha256": "63670c9ea5e6bdf044469bb5d5c6bdf08a1f1fc631adf695d71d06563a7d8b7c"
+        },
+        {
+          "file": "sounds/darkness.wav",
+          "label": "Тьма",
+          "sha256": "a34efd5bd90ce8af446e5dc39ab6b4af12f814f3bdddae0fa970f6cbb1cfd58b"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/i_received.wav",
+          "label": "Я получил...",
+          "sha256": "428db99d829db669f822f4a855b5e978bc18c8e22da3d1bcca790d82ba258ae4"
+        },
+        {
+          "file": "sounds/king_of_the_dead.wav",
+          "label": "Король мёртвых...",
+          "sha256": "d6d389ad6894499f288460a7d3e2c00d2d55e1398821e68fbc62510a5ee3380f"
+        },
+        {
+          "file": "sounds/lordaeron.wav",
+          "label": "Лордерон...",
+          "sha256": "c816d589915542b33e5aa5dbc8681140dabf01068a1b9a1f96dbe49d85e5fce5"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/how_foolish.wav",
+          "label": "Как глупо...",
+          "sha256": "01b268e53db0574980234ad0e3ccc491648f41427ccda11f4b3a1ad41ff48acd"
+        },
+        {
+          "file": "sounds/and_not.wav",
+          "label": "И не на...",
+          "sha256": "1a06157d917385986bb6033dc0642cbfe3a7ffc771f637299d253252a7b6e2d2"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/who_is_it.wav",
+          "label": "Кто это?",
+          "sha256": "09b4621102276cb32cbcb753217d75b40e827df8b1ef8b339c489b440e358f10"
+        },
+        {
+          "file": "sounds/what_now.wav",
+          "label": "Ну что ещё?",
+          "sha256": "c516210742ca656c95d98696a818f8a4fba709002fa2eb5bd4bda92d9eae6b05"
+        },
+        {
+          "file": "sounds/speak_fool.wav",
+          "label": "Говори, глупец",
+          "sha256": "06b2f918d4b3f191e3ecc80b20ac852fdf5212fcac8528e9ec1f24a939af3c8b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/nobody.wav",
+          "label": "Никто не...",
+          "sha256": "1873e7bc930f45097a1331263384c204a268d9398c26c6864d524bf546d1c75d"
+        },
+        {
+          "file": "sounds/i_will_make.wav",
+          "label": "Я заставлю...",
+          "sha256": "8b162a17469a09815f2f5821a91860398828ad3b17e29195ac86f2b7fb31d927"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/easy.wav",
+          "label": "Полегче!",
+          "sha256": "33c26dd9cf37ddc08095fbff791f63195ec2c47870ccddd5ec555d56cb15872b"
+        },
+        {
+          "file": "sounds/your_soul.wav",
+          "label": "Твоя душа...",
+          "sha256": "4d9c7d53d0e38e79ea699f1382f55d66f8fd9a3a7cc3cdb13abac037d4b3747e"
+        },
+        {
+          "file": "sounds/you_will_know.wav",
+          "label": "Ты узнаешь...",
+          "sha256": "1d030585f059ea5e9bf4391e36d7760aac4518286df0e36e65a103dc91118423"
+        }
+      ]
+    }
+  }
+}
